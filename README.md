@@ -2,7 +2,7 @@
 
 ## About the program
 
-This Python project goal is to synchronize a given folder with another making it a replica, updating from a given time to time and writes the operations in a log file.
+This Python project goal is to synchronize a given local folder with another local folder making it a replica, updating from a given time to time and writes the operations in a log file.
 
 ## Running
 
